@@ -1,0 +1,15 @@
+# Core AI
+anthropic>=0.40.0
+
+# Speech-to-text
+faster-whisper>=1.0.0
+
+# Audio I/O
+sounddevice>=0.4.6
+numpy>=1.24.0
+
+# Text-to-speech (offline, no API)
+pyttsx3>=2.90
+
+# Config
+python-dotenv>=1.0.0
