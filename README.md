@@ -7,6 +7,7 @@ A fully local, Python-powered voice assistant that listens to your voice, unders
 ## Architecture
 
 ```
+
 Microphone → [VAD Recorder] → [Whisper STT] → [Claude Brain] → [pyttsx3 TTS] → Speaker
 ```
 
